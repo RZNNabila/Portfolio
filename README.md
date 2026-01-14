@@ -36,7 +36,7 @@ A full web-based inventory tracking system with:
 * Low-stock alerts
 * Stock transactions
 * MySQL + JSP + Servlets (MVC Pattern)
-  → **[View Project Folder](./TrackIt-Inventory-System)**
+ 
 
 ---
 
@@ -48,7 +48,7 @@ A mobile app for tracking food expiry with color indicators:
 * Orange = Expiring Soon
 * Green = Safe
   → Built with Android Studio & Firebase
-  → **[View Project Folder](./FoodWatchOut-App)**
+ 
 
 ---
 
@@ -59,7 +59,7 @@ A Flutter-based booking system featuring:
 * UI/UX-focused layout
 * Room availability tracking
 * Navigation drawer and modular widgets
-  → **[View Project Folder](./BookaRoom-App)**
+  
 
 ---
 
@@ -69,7 +69,7 @@ A location-based web app with image uploads using:
 
 * HTML, CSS, JS, JSON
 * Built into APK for mobile
-  → **[View Project Folder](./Car-Rental-Location-UMT)**
+ 
 
 ---
 
